@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard PK AYU EKLIN SIHIITE",
+  "description": "Sistem Dashboard Manajemen Modul PK, Konten Teks, Gambar, dan Log Aktivitas PK AYU EKLIN SIHIITE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
